@@ -1,0 +1,8 @@
+.app {
+  min-height: 1000px;
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  background-color: #3073dd;
+}
